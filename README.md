@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building scalable web applications and contributing to open-source.<br><br>🤝 I’m open to collaborating on impactful frontend projects or backend with php, Laravel (full stack framework) and mysql databases.<br><br>🆘 Exploring deeper concepts in system design and performance optimization.<br><br>🌱 Currently mastering React, backend APIs, and clean architecture principles, building clean investment website as client project.<br><br>💬 Ask me about Git workflows, project management, and modern web stacks.<br><br>⚡ Fun fact: I love optimizing workflows and making systems more efficient.
-
+💻 I’m a Full Stack Developer building web applications with Laravel, PHP, React, JavaScript, and MySQL.<br><br>🤝 I’m open to collaborating on frontend, backend, and full stack projects.<br><br>🔍 I’m exploring system design, performance optimization, and clean architecture.<br><br>🌱 I’m strengthening my React and API development skills while building projects like POS and School Management System for clients.<br><br>🎓 I’m pursuing a BS in Artificial Intelligence at GSCWU.<br><br>💬 Ask me about Laravel, responsive interfaces, database integration, and Git workflows.<br><br>⚡ Fun fact: I enjoy simplifying workflows and making applications faster and easier to use.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/tabish-fatima3)
